@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "AI TEXT CHATBOT",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An AI-powered text chatbot for natural language conversations, leveraging machine learning for interactive responses.",
+    url: "https://github.com/sakshamwithweb/AI_TEXT_CHATBOT",
   },
   {
     title: "Web Development for Beginners",
